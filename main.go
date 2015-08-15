@@ -2,7 +2,7 @@
 // Usage:
 //  go run main.go
 // Web browser:
-//  http://localhost:8080
+//  http://localhost:8080/
 package main
 
 import (
