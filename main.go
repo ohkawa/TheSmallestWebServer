@@ -1,7 +1,7 @@
 // The smallest web server with go.
 // Usage:
 //  go run main.go
-// Web browser:
+// Web browse:
 //  http://localhost:8080/
 package main
 
